@@ -92,7 +92,7 @@ It's easy to go overboard with BEM. A good example are simple modifier classes.
   .element--bold {}
   .bold {}
 ```
-The first one clearly tells you what is going on, but you might enter a situation where `bold` might be used on a multitude of different elements. In this case a simple `.bold` class might be a better option to prevent clutter.
+The first one clearly tells you what is going on, but you might enter a situation where `bold` will be used on a multitude of different elements. In this case a simple `.bold` class might be a better option to prevent clutter.
 
 ```
   .title__tagline {}  

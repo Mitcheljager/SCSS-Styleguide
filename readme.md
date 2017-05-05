@@ -10,7 +10,6 @@ This is a styleguide to write consistent CSS across multiple projects. This styl
 - [Classnames](classnames.md)
 - [Bootstrap](bootstrap.md)
 
-----
 ## Introduction
 Writing solid front-end code is just as important as your back-end code. Even when it comes to "simple" things as CSS. Writing solid code can and will safe a lot of time in the long run. Having a consistent way of writing your CSS will help switching from project to project go much more smoothly.
 
