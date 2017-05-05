@@ -3,12 +3,12 @@ This is a styleguide to write consistent CSS across multiple projects. This styl
 
 ---
 #### Contents
-[Introduction](readme.md)
-[BEM](bem.md)
-[HTML Structure](htmlstructure.md)
-[CSS Structure](cssstructure.md)
-[Classnames](classnames.md)
-[Bootstrap](bootstrap.md)
+- [Introduction](readme.md)
+- [BEM](bem.md)
+- [HTML Structure](htmlstructure.md)
+- [CSS Structure](cssstructure.md)
+- [Classnames](classnames.md)
+- [Bootstrap](bootstrap.md)
 
 ----
 ## Introduction
@@ -25,5 +25,5 @@ CSS like this can quickly become a mess to maintain, as you always have to think
 
 ----
 #### Resources
-[BEM](http://getbem.com/naming/)
-[Boostrap 4](https://v4-alpha.getbootstrap.com/)
+- [BEM](http://getbem.com/naming/)
+- [Boostrap 4](https://v4-alpha.getbootstrap.com/)
