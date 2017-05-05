@@ -8,7 +8,7 @@
 ----
 
 # BEM
-----
+
 BEM, *or Block, Element, Modifier*, is a CSS naming structure which seeks to eliminate a lot of the annoyances that come with CSS. The biggest example being nesting. It is meant to give more meaning to your classnames and in term make it easier to understand what is going on.
 
 ```

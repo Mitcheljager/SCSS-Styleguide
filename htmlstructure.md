@@ -37,7 +37,7 @@ Each element has their own function and can tell bots what is going on. This way
 
 ## Structure
 
-With proper semantics a webpage might looks something like this:
+With proper semantics a webpage might look something like this:
 ```
 <nav></nav>
 
