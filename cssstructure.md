@@ -67,6 +67,7 @@ Modifiers are always stated in the main element. The same goes for complex selec
 
 ## Media Queries
 
+(when not using Bootstrap)
 Media queries are always mobile-first and thus represented as `min-width`. A few standard breakpoints include:
 
 ```
