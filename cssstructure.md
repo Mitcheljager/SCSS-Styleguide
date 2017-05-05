@@ -114,3 +114,19 @@ In order to make large fonts properly readable on all screens they should be sca
 ```
 
 This can be used with `@include flexibleFontSize(5, 560px);`. Where first number is the font-size in view-width based on the maximum width of the layout. The second number represents the point where the font no longer scales down.
+
+## Animations
+
+When animations are used they are defined right before the element they are used in. They are named according to the element they are meant for, or as closely relevant possible. The name should describe exactly what it does.
+
+```
+  .element {}
+
+  @keyframes elementAnimation {
+    from {} to {}
+  }
+
+  .element__child {
+    animation: elementAnimation 200ms;
+  }
+```
