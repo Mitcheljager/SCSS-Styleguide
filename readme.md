@@ -25,4 +25,4 @@ CSS like this can quickly become a mess to maintain, as you always have to think
 ----
 #### Resources
 - [BEM](http://getbem.com/naming/)
-- [Boostrap 4](https://v4-alpha.getbootstrap.com/)
+- [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
