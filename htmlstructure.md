@@ -70,7 +70,7 @@ With proper semantics a webpage might look something like this:
 
 `<section>` Is to be used for any full element on a page that could also be represented without context around it. A `<div>` is for elements that aren't necessarily readable content.
 
-**Elements should be used smartly and efficiently.**
+**Elements should be used smart and efficiently.**
 ```
   <nav>
     <ul>
